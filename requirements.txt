@@ -1,0 +1,7 @@
+# JAX is platform-dependent. 
+# https://github.com/google/jax#installation.
+# jax==0.2.16
+transformers=4.22.2
+diffusers==0.4.0.dev0
+flax==0.6.0
+optax==0.1.3
